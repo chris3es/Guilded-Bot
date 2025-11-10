@@ -1,0 +1,12 @@
+{
+  "name": "guilded-bot",
+  "version": "1.0.0",
+  "description": "A simple Guilded bot using guilded.js",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "guilded.js": "^1.0.0"
+  }
+}
